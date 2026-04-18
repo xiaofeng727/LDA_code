@@ -4,10 +4,8 @@ A simple implementation for LDA
 
 Run command 
 
-```
-wget -O  Training_Data_Img91.mat "https://uflorida-my.sharepoint.com/:u:/g/personal/ding_chi_ufl_edu/EdANV3t23S5FiP_XkmXQJF0BpIkGVZE3dPMxas2xSLb4vw?e=rdTpAV&download=1"
-``` 
-to obtain the data.
+通过网盘分享的文件：Training_Data_Img91.mat
+链接: https://pan.baidu.com/s/1LEDOjpntjcMzjDgCK_vA1A 提取码: 7277
 #
 本代码主要来源于@author: Chi Ding
 仅用于内部科研学习！！！
